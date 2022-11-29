@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="250" height="250" src="https://c.tenor.com/X7-d8mQPKCUAAAAM/computer-yeah.gif">
 
-- 🔭 I’m currently working on **Nodejs and making use of Redux library.**
+- 🔭 I’m currently working on **Nodejs .**
 
 - 📫 How to reach me **cs95335@gmail.com**
 
