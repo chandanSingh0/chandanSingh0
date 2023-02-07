@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **cs95335@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"><a href="https://resume-cs.netlify.app/" target="_blank">My Resume</a></p>
 <p align="left"><a href="https://mainportfolio12.netlify.app" target="_blank">My Portfolio</a></p> -->
 <p align="left">
