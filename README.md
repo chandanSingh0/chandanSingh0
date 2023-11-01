@@ -1,10 +1,8 @@
-<!-- ### Hello, I'm Akash Vishwakarma! 👋 -->
 
-<!-- <h1>Hello, I'm Akash Vishwakarma! </h1> -->
 <img align="right" alt="coding" width="250" height="250" src="https://c.tenor.com/X7-d8mQPKCUAAAAM/computer-yeah.gif">
 
 <h1 align="left">Hello 👋</h1>
-<h3 align="center">I am focusing on being a good back Java Developer</h3>
+<h3 align="center">I am focusing on being a good Java Backend Developer</h3>
 
 ---
 
@@ -18,7 +16,7 @@ I am an aspiring Full Stack Developer.
   <br>
   💬 Ask me about Java & SpringBoot.
   <br>
-  👨‍💻 All my projects are available in the [repository section]([https://github.com/akashvishwakarma27?tab=repositories](https://github.com/chandanSingh0?tab=repositories)).
+  👨‍💻 All my projects are available in the [repository section]([https://github.com/chandanSingh0?tab=repositories](https://github.com/chandanSingh0?tab=repositories)).
   <br>
   👨🏻‍🎓 Have a look at my [Portfolio](https://chandanSingh0.github.io/).
   <br>
@@ -36,7 +34,7 @@ I am an aspiring Full Stack Developer.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/akash-vishwakarma-117129252](https://www.linkedin.com/in/chandan-singh-5b0b95244/))&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/chandan-singh-5b0b95244(https://www.linkedin.com/in/chandan-singh-5b0b95244/))&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://chandanSingh0.github.io/)&nbsp;
 
 <br>
