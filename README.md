@@ -1,11 +1,7 @@
 
-<img align="right" alt="coding" width="250" height="250" src="https://c.tenor.com/X7-d8mQPKCUAAAAM/computer-yeah.gif">
+<img align="left" alt="coding" width="250" height="250" src="https://c.tenor.com/X7-d8mQPKCUAAAAM/computer-yeah.gif">
 
-<h1 align="left">Hello 👋</h1>
-<h3 align="center">I am focusing on being a good Java Backend Developer</h3>
-
----
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+ChandanSingh!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;border-radius: 12px;">
 
 
 ## :man_technologist: About Me :
@@ -72,11 +68,11 @@ I am an aspiring Full Stack Developer.
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=chandanSingh0&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<br>
+<be>
 
-## ⚡ Activity Graph
+<!--## ⚡ Activity Graph
 
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chandanSingh0&theme=gotham&hide_border=true"/>
+<!--<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=chandanSingh0&theme=gotham&hide_border=true"/>
 
 ### Thanks for visiting! 😊
 
