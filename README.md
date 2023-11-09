@@ -30,8 +30,8 @@ I am an aspiring Full Stack Developer.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/chandan-singh-5b0b95244(https://www.linkedin.com/in/chandan-singh-5b0b95244/))&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://chandanSingh0.github.io/)&nbsp;
+<a href="https://github.com/chandanSingh0" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/chandan-singh-5b0b95244/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <br>
 
