@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Hey!+It's+ChandanSingh!;Learning+Java+Back-end+Development...👨🏻‍💻;" style="width: 100%;border-radius: 12px;">
 
 
-## :man_technologist: About Me :
+## About Me :
 
 I am an aspiring Full Stack Developer.
 
